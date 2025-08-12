@@ -1,16 +1,31 @@
-## Hi there 👋
+Computer Science student at ACS–UPB
+C#/.NET, C, Python, Java, SQL
+Open to internships
 
-<!--
-**annacrisstina/annacrisstina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Highlighted projects
+- Order Manager — Showcase (ASP.NET Core + SQL Server)
+  REST API for products and orders with DTOs, validation and OpenAPI.
+  Full source available on request.
 
-Here are some ideas to get you started:
+- Shopping Cart (Flask)
+  Simple UI with templates and static assets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technologies and tools
+- Backend: C#, ASP.NET Core, EF Core, REST APIs
+- Frontend/UI: HTML, CSS, templating with Flask
+- Databases: SQL Server (T-SQL), schema design
+- Other languages: C, Java, Python
+- Dev: Git/GitHub, Docker (basic), Swagger / OpenAPI
+
+Currently learning
+- modern C# patterns, EF Core, SQL performance
+
+Coursework and certificates
+- Basic Quantum Knowledge — Romanian National Quantum Communication Infrastructure (Jun 2025)
+- Java Foundations — Oracle Academy (Jun 2024)
+- Database Programming with SQL — Oracle Academy (May 2024)
+- Database Design — Oracle Academy (Dec 2023)
+
+Contact
+- LinkedIn: linkedin.com/in/ana-tudosoiu
+- Email: anna.tudosoiu@gmail.com
