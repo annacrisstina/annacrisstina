@@ -16,7 +16,7 @@ Highlighted projects
   Simple UI with templates and static assets.
 
 - Weather App — React + Vite  
-  Web app that displays weather data using an external API.
+  Web app that displays weather data using an external API.  
   Live demo: <https://weatherapp-ten-theta-88.vercel.app>  
   Repo: <https://github.com/annacrisstina/weatherapp>
 
