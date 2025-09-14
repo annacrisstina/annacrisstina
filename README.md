@@ -15,21 +15,20 @@ Highlighted projects
 - Shopping Cart (Flask)  
   Simple UI with templates and static assets.
 
+- Weather App — React + Vite  
+  Web app that displays weather data using an external API.
+  Live demo: <https://weatherapp-ten-theta-88.vercel.app>  
+  Repo: <https://github.com/annacrisstina/weatherapp>
+
 ---
 
 Technologies and tools
 
 - Backend: C#, ASP.NET Core, EF Core, REST APIs
-- Frontend/UI: HTML, CSS, templating with Flask
+- Frontend/UI: HTML, CSS, React + Vite, templating with Flask
 - Databases: SQL Server (T-SQL), schema design
 - Other languages: C, Java, Python
 - Dev: Git/GitHub, Docker (basic), Swagger / OpenAPI
-
----
-
-Currently learning
-
-- Modern C# patterns, EF Core, SQL performance
 
 ---
 
