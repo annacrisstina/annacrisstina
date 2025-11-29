@@ -1,7 +1,6 @@
 # 🌐 Computer Science @ ACS–UPB
 
-- 🎓 2nd year CS student at ACS–UPB  
-- 💻 Enjoy learning new technologies and applying them in real projects  
+- 🎓 2nd year CS student at ACS–UPB   
 - 🚀 Motivated and open to new opportunities
 
 ---
@@ -46,8 +45,8 @@ Generates PDF invoices & financial charts from Excel datasets.
 
 ## 🎓 Coursework & Certifications
 
-- **Sui Fundamentals — Certificate (2025)**  
-- **Basic Quantum Knowledge** — RNCQI (Jun 2025)  
+- **Sui Fundamentals** — Certificate (Aug 2025)  
+- **Basic Quantum Knowledge** — Romanian National Quantum Communication Infrastructure (Jun 2025)  
 - **Java Foundations** — Oracle Academy  
 - **Database Programming with SQL** — Oracle Academy  
 - **Database Design** — Oracle Academy  
