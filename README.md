@@ -43,27 +43,17 @@ Generates PDF invoices & financial charts from Excel datasets.
 
 ---
 
-## 🎓 Coursework & Certifications
+## Coursework & Certifications
 
+- **CCNA: Switching, Routing, and Wireless Essentials** — Cisco Networking Academy (Dec 2025)  
+  🔗 [Credly Badge](https://www.credly.com/badges/aae701be-cb54-4487-9e86-a84459a8be81/public_url)
 - **Sui Fundamentals** — Certificate (Aug 2025)  
+  🔗 [On-chain Certificate](https://suivision.xyz/object/0x37770891ec2424f651baeca42195cdc0b351f50cdc297386da0c1749eba46dea)
 - **Basic Quantum Knowledge** — Romanian National Quantum Communication Infrastructure (Jun 2025)  
 - **Java Foundations** — Oracle Academy  
 - **Database Programming with SQL** — Oracle Academy  
 - **Database Design** — Oracle Academy  
 - **IC3 Certification**
-
----
-
-## 🧩 Web3 Credentials (Sui Network)
-
-🎓 **Sui Fundamentals — Certificate**  
-🔗 https://suivision.xyz/object/0x37770891ec2424f651baeca42195cdc0b351f50cdc297386da0c1749eba46dea  
-
-🎟️ **Discord VIP Pass**  
-🔗 https://suivision.xyz/object/0xcf800461fa6879e6d827fa377c7a2a2427a9e689fa30603e0bc09fdc1a05a17f  
-
-👩‍💻 **Developer Onboarded**  
-🔗 https://suivision.xyz/object/0xe47fa91b2b973d9f992f58888125ce6fa5dc975cc37aafeeb1ec77988388eb9c  
 
 ---
 
