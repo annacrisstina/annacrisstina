@@ -5,14 +5,6 @@
 
 ---
 
-## 📬 Contact
-
-📍 Bucharest, Romania  
-📧 anna.tudosoiu@gmail.com  
-🔗 https://www.linkedin.com/in/ana-tudosoiu
-
----
-
 ## 🧰 Tech Stack
 
 💬 **Languages:** TypeScript • Python • Java • C# • SQL (T-SQL) • C/C++ • Rust  
