@@ -1,23 +1,48 @@
 # 🌐 Computer Science @ ACS–UPB
 
-- 🎓 2nd year CS student at ACS–UPB   
-- 🚀 Motivated and open to new opportunities
+- 🎓 3rd year Computer Science student at ACS–UPB
+- ☁️ Completed the Google Romania Cloud & Agentic AI Summer School
+
+---
+
+## 📬 Contact
+
+📍 Bucharest, Romania  
+📧 anna.tudosoiu@gmail.com  
+🔗 https://www.linkedin.com/in/ana-tudosoiu
 
 ---
 
 ## 🧰 Tech Stack
 
-💬 **Languages:** Java • C • Python • C# • SQL• Rust  
-🌐 **Web & Frontend:** React + Vite • HTML • CSS • Flask  
-⚙️ **Backend:** ASP.NET Core • EF Core • REST APIs • Swagger/OpenAPI  
-🖥️ **Desktop & Tools:** PySide6 • SQLite • Git/GitHub • Docker (basic)
+💬 **Languages:** TypeScript • Python • Java • C# • SQL (T-SQL) • C/C++ • Rust  
+🌐 **Frontend:** React • HTML/CSS  
+⚙️ **Backend:** Fastify • ASP.NET Core • EF Core • Flask • REST APIs • Swagger/OpenAPI  
+🤖 **AI & Cloud:** Google ADK • Gemini • Vertex AI • Google Cloud  
+🗄️ **Databases:** PostgreSQL • SQL Server • Redis  
+🛠️ **Infrastructure & Tools:** Docker • Docker Compose • Git/GitHub • GitHub Apps & Webhooks • BullMQ • Maven • Linux
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🛍️ Order Manager — ASP.NET Core + SQL Server  
-REST API with DTOs, validation, layered architecture & full OpenAPI documentation.  
+### 🔁 DevFlow — CI Reliability Platform for GitHub Actions
+Self-hostable platform that detects flaky GitHub Actions tests through webhook ingestion, artifact parsing and run-history analysis, with design trade-offs documented in 22 Architecture Decision Records.  
+🧩 TypeScript • Fastify • React • PostgreSQL • Redis • BullMQ • Docker  
+🗂️ [Repository](https://github.com/annacrisstina/devflow)
+
+---
+
+### 🧭 TravelPilot — Agentic AI Travel Assistant
+Agentic AI travel assistant built on Google ADK and Gemini that generates personalized itineraries, with interchangeable local and Google Cloud knowledge backends.  
+🧩 Python • Google ADK • Gemini • Vertex AI • Docker • Google Cloud  
+🗂️ [Repository](https://github.com/annacrisstina/travelpilot)
+
+---
+
+### 🛍️ TrendyShop — ASP.NET Core REST API + Flask UI
+Layered REST API over EF Core and SQL Server with DTO validation, code-first migrations and OpenAPI docs, consumed by a Flask storefront.  
+🧩 C# • Python • SQL (T-SQL) • HTML/CSS  
 🗂️ [Repository](https://github.com/annacrisstina/trendyshop-showcase)  
 📄 [Swagger](https://github.com/annacrisstina/trendyshop-showcase/blob/main/swagger/swagger.json)  
 🖼️ [Screenshots](https://github.com/annacrisstina/trendyshop-showcase/tree/main/screenshots)  
@@ -25,39 +50,27 @@ REST API with DTOs, validation, layered architecture & full OpenAPI documentatio
 
 ---
 
-### 🛒 Shopping Cart — Flask  
-Simple project showcasing routing, templating & backend fundamentals.
+### 🐞 BugTracker — Java Ticket Management Backend
+Modular Maven backend for tickets, milestones and role-based workflows, using Command, Factory, Singleton and Visitor patterns with JSON persistence.  
+🧩 Java • Maven • Jackson • Design Patterns  
+🗂️ [Repository](https://github.com/annacrisstina/bugtracker)
 
 ---
 
-### 🌦️ Weather App — React + Vite  
-Real-time weather dashboard using a public API.  
-🌐 [Live Demo](https://weatherapp-ten-theta-88.vercel.app)  
-🗂️ [Repository](https://github.com/annacrisstina/weatherapp)
-
----
-
-### 📄 InvoiceProject — Python + PySide6  
-Generates PDF invoices & financial charts from Excel datasets.  
+### 📄 InvoiceProject — Desktop Invoice & Reporting Tool
+PySide6 desktop app that separates UI, Pandas data processing and ReportLab PDF generation into independent layers.  
+🧩 Python • PySide6 • Pandas • ReportLab  
 🗂️ [Repository](https://github.com/annacrisstina/invoice-project)
 
 ---
 
 ## Coursework & Certifications
 
-- **CCNA: Switching, Routing, and Wireless Essentials** — Cisco Networking Academy (Dec 2025)  
+- **Google Romania — Cloud & Agentic AI Summer School** — Google Lab @ POLITEHNICA Bucharest (Aug 2026)
+- **CCNA: Switching, Routing and Wireless Essentials** — Cisco Networking Academy (Dec 2025)  
   🔗 [Credly Badge](https://www.credly.com/badges/aae701be-cb54-4487-9e86-a84459a8be81/public_url)
-- **Sui Fundamentals** — Certificate (Aug 2025)  
+- **Sui Fundamentals** — Sui Foundation (Aug 2025)  
   🔗 [On-chain Certificate](https://suivision.xyz/object/0x37770891ec2424f651baeca42195cdc0b351f50cdc297386da0c1749eba46dea)
-- **Basic Quantum Knowledge** — Romanian National Quantum Communication Infrastructure (Jun 2025)  
-- **Java Foundations** — Oracle Academy  
-- **Database Programming with SQL** — Oracle Academy  
-- **Database Design** — Oracle Academy  
-- **IC3 Certification**
-
----
-
-## 📬 Contact
-
-📧 anna.tudosoiu@gmail.com  
-🔗 https://www.linkedin.com/in/ana-tudosoiu
+- **Basic Quantum Knowledge** — RoNaQCI / POLITEHNICA Bucharest (Jun 2025)
+- **Oracle Academy** — Java Foundations • Database Design • Database Programming with SQL
+- **IC3 Digital Literacy GS5** — Certiport (2023)
