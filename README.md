@@ -58,8 +58,8 @@ PySide6 desktop app that separates UI, Pandas data processing and ReportLab PDF 
 
 ## Coursework & Certifications
 
-- **Google Romania — Cloud & Agentic AI Summer School** — Google Lab @ POLITEHNICA Bucharest (Aug 2026)
-   🔗 [Certificate](https://drive.google.com/file/d/1OealXHbCaoej-dgu3g-TusQeQ1SGiVCf/view?usp=sharing)
+- **Google Romania — Cloud & Agentic AI Summer School** — Google Lab @ POLITEHNICA Bucharest (Aug 2026)  
+  🔗 [Certificate](https://drive.google.com/file/d/1OealXHbCaoej-dgu3g-TusQeQ1SGiVCf/view?usp=sharing)
 - **CCNA: Switching, Routing and Wireless Essentials** — Cisco Networking Academy (Dec 2025)  
   🔗 [Credly Badge](https://www.credly.com/badges/aae701be-cb54-4487-9e86-a84459a8be81/public_url)
 - **Sui Fundamentals** — Sui Foundation (Aug 2025)  
