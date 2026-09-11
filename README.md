@@ -56,14 +56,15 @@ PySide6 desktop app that separates UI, Pandas data processing and ReportLab PDF 
 
 ---
 
-## Coursework & Certifications
+## Certifications
 
 - **Google Romania — Cloud & Agentic AI Summer School** — Google Lab @ POLITEHNICA Bucharest (Aug 2026)  
-  🔗 [Certificate](https://drive.google.com/file/d/1OealXHbCaoej-dgu3g-TusQeQ1SGiVCf/view?usp=sharing)
+🔗 [Certificate](https://drive.google.com/file/d/1OealXHbCaoej-dgu3g-TusQeQ1SGiVCf/view?usp=sharing)
 - **CCNA: Switching, Routing and Wireless Essentials** — Cisco Networking Academy (Dec 2025)  
-  🔗 [Credly Badge](https://www.credly.com/badges/aae701be-cb54-4487-9e86-a84459a8be81/public_url)
+🔗 [Credly Badge](https://www.credly.com/badges/aae701be-cb54-4487-9e86-a84459a8be81/public_url)
 - **Sui Fundamentals** — Sui Foundation (Aug 2025)  
-  🔗 [On-chain Certificate](https://suivision.xyz/object/0x37770891ec2424f651baeca42195cdc0b351f50cdc297386da0c1749eba46dea)
-- **Basic Quantum Knowledge** — RoNaQCI / POLITEHNICA Bucharest (Jun 2025)
-- **Oracle Academy** — Java Foundations • Database Design • Database Programming with SQL
-- **IC3 Digital Literacy GS5** — Certiport (2023)
+🔗 [On-chain Certificate](https://suivision.xyz/object/0x37770891ec2424f651baeca42195cdc0b351f50cdc297386da0c1749eba46dea)
+- **Training in Basic Quantum Knowledge** — RoNaQCI / POLITEHNICA Bucharest (Jun 2025)  
+🔗 [Certificates](https://drive.google.com/drive/folders/1q8X4w4Pn6OqzeyIAeUahCPuHQjzj8HYY?usp=sharing)
+- **Oracle Academy** — Database Design • Database Programming with SQL • Java Foundations (2023–2024), final exams passed  
+🔗 [Certificates](https://drive.google.com/drive/folders/1_fWe2zuzy4E9CrAND4pABKsJV9i2JdkI?usp=sharing)
