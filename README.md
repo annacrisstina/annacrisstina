@@ -1,4 +1,4 @@
-# 🌐 Computer Science @ ACS–UPB
+## Junior AI Engineer @ [Arcanna.ai](https://arcanna.ai)
 
 - 🎓 3rd year Computer Science student at ACS–UPB
 - ☁️ Completed the Google Romania Cloud & Agentic AI Summer School
